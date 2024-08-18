@@ -1,3 +1,4 @@
+//SAM INTERFACE    actually there is three type of interfaces !.Normal Interface 2.Functional Interface or SAM Interface 3.Marker Interface or Blank Interface no methods
 
 @FunctionalInterface
 interface A{
