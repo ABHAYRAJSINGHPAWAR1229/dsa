@@ -1,15 +1,22 @@
+
+@FunctionalInterface
 interface A{
     int Add(int a,int b);
 }
 
+
+@FunctionalInterface
 interface S{
     int Subtract(int a,int b);
 }
 
+
+@FunctionalInterface
 interface M{
     float Multiply(int a,int b);
 }
 
+@FunctionalInterface
 interface D{
     float Divide(int a,int b);
 }
