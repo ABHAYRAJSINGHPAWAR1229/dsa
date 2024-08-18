@@ -5,7 +5,8 @@ class A{
 }
 
 class B extends A{
-    @override
+    //Annotation Used
+    @Override
     public void show(){
         System.out.println("You are in B Class");
     }
