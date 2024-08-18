@@ -1,0 +1,1 @@
+Annotation means Supplement to the Compiler or Runtime or MetaData for Compiler.  to supply extra information to the Compiler.  
